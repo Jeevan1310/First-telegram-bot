@@ -5,7 +5,8 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
   
-updater = Updater("bot_token",
+
+updater = Updater("5348615582:AAEoiEtCAQS9M3IXa2807Ioi0bIaCWsvoKM",
                   use_context=True)
   
   
